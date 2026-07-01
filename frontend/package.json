@@ -1,0 +1,38 @@
+{
+  "name": "inventory-order-management-frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+ 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulaharma/inventory-order-management-frontend.git"
+  },
+  "author": "rahul sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulaharma/inventory-order-management-frontend/issues"
+  },
+  "homepage": "https://github.com/rahulaharma/inventory-order-management-frontend#readme",
+  "description": "",
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@tailwindcss/postcss": "^4.1.10",
+    "axios": "^1.10.0",
+    "jwt-decode": "^4.0.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.3",
+    "react-toastify": "^11.0.5",
+    "tailwindcss": "^4.1.10"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "autoprefixer": "^10.4.21",
+    "vite": "^7.0.6"
+  }
+}

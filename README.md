@@ -333,16 +333,7 @@ npm start
 
 ---
 
-# 🤝 Contributing
 
-Contributions, suggestions, and improvements are always welcome.
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature/new-feature
-```
 
 
 

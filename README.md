@@ -344,17 +344,7 @@ Contributions, suggestions, and improvements are always welcome.
 git checkout -b feature/new-feature
 ```
 
-3. Commit your changes
 
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push to your branch
-
-```bash
-git push origin feature/new-feature
-```
 
 5. Open a Pull Request
 
